@@ -19,16 +19,15 @@ Fig showcases a DDoS attack detection system powered by a Long Short-Term Memory
 * Data Preprocessing: Before testing, the dataset undergoes preprocessing to ensure consistency, 
 relevance, and suitability for input into the deep learning models. This may involve data cleaning, Feature Selection, Segregating data , label encoding, normalization.
 
-2. LSTM Model Development:
+### 2. LSTM Model Development:
 Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecturethat is designed to overcome the limitations of traditional RNNs in learning and retaining longterm dependencies in sequential data.
 
-3. Model Training:
-Training Dataset and Evaluation:
-The training process is not just a computational task, it's a dynamic journey where the model 
+### 3. Model Training:
+* Training Dataset and Evaluation:The training process is not just a computational task, it's a dynamic journey where the model 
 learns to discern patterns, adapt to complexities, and generalize from the provided data.
-Hyperparameter Tuning and Optimization: It involves a delicate dance between computational efficiency and model performance and refining the model's internal representations.
+* Hyperparameter Tuning and Optimization: It involves a delicate dance between computational efficiency and model performance and refining the model's internal representations.
 
- 4. Model Evaluation:
-Testing and Metrics:Testing the model on an unseen data and metrics chosen for evaluation – accuracy, precision, recall, and F1-score.
-Overfitting check:To check for overfitting, compare performance on training and validation sets, use cross-validation, and plot learning curves.
+ ### 4. Model Evaluation:
+* Testing and Metrics:Testing the model on an unseen data and metrics chosen for evaluation – accuracy, precision, recall, and F1-score.
+* Overfitting check:To check for overfitting, compare performance on training and validation sets, use cross-validation, and plot learning curves.
 
