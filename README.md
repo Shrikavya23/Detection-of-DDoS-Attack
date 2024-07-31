@@ -13,7 +13,7 @@ A distributed denial-of-service (DDoS) attack is a malicious operation that seek
 Fig showcases a DDoS attack detection system powered by a Long Short-Term Memory (LSTM) model. The system utilizes the CIC-DDOS2019 dataset, containing examples of both regular traffic and DDoS attacks, to train the LSTM model. By analyzing patterns in the training data, the LSTM learns to differentiate between normal and malicious network behavior. Once trained and evaluated, the system can classify new, real-time traffic as benign or a potential DDoS attack, enabling security personnel to take appropriate action.
 
 ## Methodology
-1. Data Preparation:
+### 1. Data Preparation:
 * Dataset Selection: Curating a diverse and representative dataset is crucial for training and testing the DDoS detection models. The dataset should encompass various types of network traffic, including both benign and malicious traffic.
 * Import and Distribution:The meticulous attention given to ensuring the random distribution of rows in the dataset is not just a procedural step; it's a preemptive measure against potential biases that might inadvertently influence the model during subsequent training and testing phases.
 * Data Preprocessing: Before testing, the dataset undergoes preprocessing to ensure consistency, 
@@ -22,5 +22,13 @@ relevance, and suitability for input into the deep learning models. This may inv
 2. LSTM Model Development:
 Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecturethat is designed to overcome the limitations of traditional RNNs in learning and retaining longterm dependencies in sequential data.
 
+3. Model Training:
+Training Dataset and Evaluation:
+The training process is not just a computational task, it's a dynamic journey where the model 
+learns to discern patterns, adapt to complexities, and generalize from the provided data.
+Hyperparameter Tuning and Optimization: It involves a delicate dance between computational efficiency and model performance and refining the model's internal representations.
 
+ 4. Model Evaluation:
+Testing and Metrics:Testing the model on an unseen data and metrics chosen for evaluation – accuracy, precision, recall, and F1-score.
+Overfitting check:To check for overfitting, compare performance on training and validation sets, use cross-validation, and plot learning curves.
 
