@@ -53,5 +53,5 @@ I welcome contributions to this project! Here are some ways you can help:
 5. Open a pull request.
 
 ## References
-[Your link here]([1] Goonathilaka, M.O., 2023. A Hybrid Deep Learning Approach for DDoS Attack Classification using Network Traffic Data Analysis (Doctoral dissertation, University of Westminster)).
+[Your link here](Goonathilaka, M.O., 2023. A Hybrid Deep Learning Approach for DDoS Attack Classification using Network Traffic Data Analysis (Doctoral dissertation, University of Westminster))
 
