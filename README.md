@@ -52,6 +52,5 @@ I welcome contributions to this project! Here are some ways you can help:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## References
-[Your link here](Goonathilaka, M.O., 2023. A Hybrid Deep Learning Approach for DDoS Attack Classification using Network Traffic Data Analysis (Doctoral dissertation, University of Westminster))
+
 
