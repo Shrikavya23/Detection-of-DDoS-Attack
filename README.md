@@ -53,8 +53,5 @@ I welcome contributions to this project! Here are some ways you can help:
 5. Open a pull request.
 
 ## References
-* ([1] Goonathilaka, M.O., 2023. A Hybrid Deep Learning Approach for DDoS Attack Classification using Network Traffic Data Analysis (Doctoral dissertation, University of Westminster)).
-[2] Ahmed, S.; Khan, Z.A.; Mohsin, S.M.; Latif, S.; Aslam, S.; Mujlid, H.; Adil, M.; Najam, Z. Effective and Efficient DDoS Attack Detection Using Deep Learning Algorithm, Multi-Layer Perceptron. Future Internet 2023, 15, 76.
-[3] Fathima, A., Devi, G.S. and Faizaanuddin, M., 2023. Improving distributed denial of service attack detection using supervised machine learning. Measurement: Sensors, p.100911.
-[4] Aktar, S. and Nur, A.Y., 2023. Towards DDoS attack detection using deep learning approach. Computers & Security, 129, p.103251.
-[5] Alashhab, A.A., Zahid, M.S.M., Azim, M.A., Daha, M.Y., Isyaku, B. and Ali, S., 2022. A Survey of Low Rate DDoS Detection Techniques Based on Machine Learning in SoftwareDefined Networks. Symmetry, 14(8), p.1563.
+[Your link here] ([1] Goonathilaka, M.O., 2023. A Hybrid Deep Learning Approach for DDoS Attack Classification using Network Traffic Data Analysis (Doctoral dissertation, University of Westminster)).
+
