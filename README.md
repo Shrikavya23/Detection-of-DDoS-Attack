@@ -31,3 +31,6 @@ learns to discern patterns, adapt to complexities, and generalize from the provi
 * Testing and Metrics:Testing the model on an unseen data and metrics chosen for evaluation – accuracy, precision, recall, and F1-score.
 * Overfitting check:To check for overfitting, compare performance on training and validation sets, use cross-validation, and plot learning curves.
 
+  ## Dataset Description
+  The CICDDoS-2019 dataset is a comprehensive dataset designed for researching Distributed Denial of Service (DDoS) attack detection. Collected by the Canadian Institute for Cybersecurity, this dataset includes a variety of DDoS attack types captured in a simulated environment with realistic background traffic. It contains labeled network traffic data, including packet captures (PCAPs) and flow features, which can be used to train and evaluate machine learning models for detecting DDoS attacks. 
+
