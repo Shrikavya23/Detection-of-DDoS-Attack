@@ -8,3 +8,6 @@ A distributed denial-of-service (DDoS) attack is a malicious operation that seek
 * Utilization of the Long Short-Term Memory (LSTM) neural network architecture for feature selection and extraction.
 * Use of the CICDDoS2019 dataset for training and testing the LSTM model.
 
+## System Design
+### Architectural Diagram
+
