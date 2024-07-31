@@ -14,8 +14,8 @@ Fig showcases a DDoS attack detection system powered by a Long Short-Term Memory
 
 ## Methodology
 1.Data Preparation:
-*Dataset Selection: Curating a diverse and representative dataset is crucial for training and testing the DDoS detection models. The dataset should encompass various types of network traffic, including both benign and malicious traffic.
-*Import and Distribution:The meticulous attention given to ensuring the random distribution of rows in the dataset is not just a procedural step; it's a preemptive measure against potential biases that might inadvertently influence the model during subsequent training and testing phases.
-*Data Preprocessing: Before testing, the dataset undergoes preprocessing to ensure consistency, 
+* Dataset Selection: Curating a diverse and representative dataset is crucial for training and testing the DDoS detection models. The dataset should encompass various types of network traffic, including both benign and malicious traffic.
+* Import and Distribution:The meticulous attention given to ensuring the random distribution of rows in the dataset is not just a procedural step; it's a preemptive measure against potential biases that might inadvertently influence the model during subsequent training and testing phases.
+* Data Preprocessing: Before testing, the dataset undergoes preprocessing to ensure consistency, 
 relevance, and suitability for input into the deep learning models. This may involve data cleaning, Feature Selection, Segregating data , label encoding, normalization.
 
