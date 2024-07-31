@@ -28,6 +28,8 @@ Each LSTM cell contains a memory cell and three gates: the input gate, the forge
 * Input Gate: The input gate controls the flow of new information into the memory cell. It evaluates the current input and the previous hidden state to determine which new information should be stored in the memory cell. 
 * Forget Gate: It evaluates the current input and the previous hidden state to determine which information from 
 the memory cell should be discarded or forgotten. The forget gate allows the LSTM model to prioritize important information while discarding irrelevant or outdated information, thereby maintaining the relevancy of the memory cell over time.
+* Output Gate: It controls the exposure of information from the memory cell to the next layer or as the output of the LSTM model.
+* Activation Function :The selection of the sigmoid activation function in hidden layers and the softmax activation function in the output layer is a nuanced decision. It reflects an understanding of the binary nature of the classification problem, where the model needs to discern between benign and malicious traffic.
 
 ### 3. Model Training:
 * Training Dataset and Evaluation:The training process is not just a computational task, it's a dynamic journey where the model 
