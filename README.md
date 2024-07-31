@@ -36,5 +36,19 @@ The CICDDoS-2019 dataset is a comprehensive dataset designed for researching Dis
 
 ## Conclusion
 The  primary objective was to tackle the critical challenge of detecting Distributed Denial of Service (DDoS) attacks by employing deep learning techniques, particularly focusing on implementing a Long Short-Term Memory (LSTM) model.By harnessing  deep learning model like LSTM, the project aimed to develop a robust solution for identifying and mitigating DDoS attacks in real-time. Initially, the dataset underwent preprocessing steps, which involved dropping columns with a single unique value and converting categorical labels into 
-numerical equivalents. Following this, standardization and normalization techniques were applied to enhance the model's performance. The core aspect of the project involved constructing and training an LSTM model for DDoS attack detection, leveraging its capability to capture long-term dependencies in sequential data. The LSTM model architecture consisted of multiple layers of LSTM units, augmented with dropout layers to mitigate overfitting. Upon completion of the training process, the LSTM model demonstrated promising performance metrics on both the training and test datasets, indicating in identifying malicious network traffic accurately. It provided a comprehensive solution aimed at bolstering network security and fortifying defenses against DDoS attacks. 
+numerical equivalents. Following this, standardization and normalization techniques were applied to enhance the model's performance. The core aspect of the project involved constructing and training an LSTM model for DDoS attack detection, leveraging its capability to capture long-term dependencies in sequential data. The LSTM model architecture consisted of multiple layers of LSTM units, augmented with dropout layers to mitigate overfitting. Upon completion of the training process, the LSTM model demonstrated promising performance metrics on both the training and test datasets, indicating in identifying malicious network traffic accurately. It provided a comprehensive solution aimed at bolstering network security and fortifying defenses against DDoS attacks.
+
+## Contributing
+We welcome contributions to this project! Here are some ways you can help:
+
+1. **Report bugs**: If you find any bugs, please create an issue.
+2. **Feature requests**: If you have ideas for new features, please let us know.
+3. **Code contributions**: Feel free to fork the repository and submit pull requests.
+
+### Steps to Contribute
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
 
