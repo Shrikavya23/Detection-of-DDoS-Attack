@@ -22,5 +22,5 @@ relevance, and suitability for input into the deep learning models. This may inv
 2. LSTM Model Development:
 Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecturethat is designed to overcome the limitations of traditional RNNs in learning and retaining longterm dependencies in sequential data.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2021%2F03%2Fintroduction-to-long-short-term-memory-lstm%2F&psig=AOvVaw2OE5TEBR5rPwzZY6gGyiJl&ust=1722514595136000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODHzpah0YcDFQAAAAAdAAAAABAJ">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2021%2F03%2Fintroduction-to-long-short-term-memory-lstm%2F&psig=AOvVaw2OE5TEBR5rPwzZY6gGyiJl&ust=1722514595136000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODHzpah0YcDFQAAAAAdAAAAABAJ](https://av-eks-blogoptimized.s3.amazonaws.com/Screenshot-from-2021-03-16-13-41-03.png)">
 
