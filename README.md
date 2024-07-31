@@ -24,7 +24,7 @@ Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) archit
 ![image_2024-07-31_193406307](https://github.com/user-attachments/assets/fcce4220-3d87-466d-bdd7-db90774f6f1a)
 
 Each LSTM cell contains a memory cell and three gates: the input gate, the forget gate, and the output gate.
-* Memory Cell: It is capable of retaining information over long periods, enabling the LSTM model to capture dependencies across multiple time steps and a fundamental component of the LSTM architecture
+** Memory Cell **: It is capable of retaining information over long periods, enabling the LSTM model to capture dependencies across multiple time steps and a fundamental component of the LSTM architecture
 * Input Gate: The input gate controls the flow of new information into the memory cell. It evaluates the current input and the previous hidden state to determine which new information should be stored in the memory cell. 
 * Forget Gate: It evaluates the current input and the previous hidden state to determine which information from 
 the memory cell should be discarded or forgotten. The forget gate allows the LSTM model to prioritize important information while discarding irrelevant or outdated information, thereby maintaining the relevancy of the memory cell over time.
