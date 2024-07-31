@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/515ec337-259f-4d48-9243-27c72409de82)![image](https://github.com/user-attachments/assets/b6ec206e-bd32-4e71-9788-a6bd82d4fad0)# Detection-of-DDoS-Attack
+Detection-of-DDoS-Attack
 
 ## Introduction
 A distributed denial-of-service (DDoS) attack is a malicious operation that seeks to disrupt the legitimate flow of traffic to a server, service, or network by flooding it with overwhelming network traffic.This has been a great challenge due to frequently changing attack patterns, the rapid development of cyber offense tools, and the open availability of cyber offense materials in the dark web. DDoS attacks can cause severe disruption to online services, resulting in lost revenue, reputation damage, and decreased customer trust.  DoS and DDoS are two different attack types, but the final aim of the attacker remains the same. DoS attacks use one computer (attack computer) and one victim. In contrast, DDoS attacks rely on more infected bots to carry out the tasks simultaneously to infect the target server, making it difficult to access the services for legitimate users. 
