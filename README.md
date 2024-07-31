@@ -12,3 +12,10 @@ A distributed denial-of-service (DDoS) attack is a malicious operation that seek
 ### Architectural Diagram
 Fig showcases a DDoS attack detection system powered by a Long Short-Term Memory (LSTM) model. The system utilizes the CIC-DDOS2019 dataset, containing examples of both regular traffic and DDoS attacks, to train the LSTM model. By analyzing patterns in the training data, the LSTM learns to differentiate between normal and malicious network behavior. Once trained and evaluated, the system can classify new, real-time traffic as benign or a potential DDoS attack, enabling security personnel to take appropriate action.
 
+## Methodology
+1.Data Preparation:
+*Dataset Selection: Curating a diverse and representative dataset is crucial for training and testing the DDoS detection models. The dataset should encompass various types of network traffic, including both benign and malicious traffic.
+*Import and Distribution:The meticulous attention given to ensuring the random distribution of rows in the dataset is not just a procedural step; it's a preemptive measure against potential biases that might inadvertently influence the model during subsequent training and testing phases.
+*Data Preprocessing: Before testing, the dataset undergoes preprocessing to ensure consistency, 
+relevance, and suitability for input into the deep learning models. This may involve data cleaning, Feature Selection, Segregating data , label encoding, normalization.
+
